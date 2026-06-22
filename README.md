@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Glyza Marie Acibal</h1>
 <h3 align="center">BSIT Student | Aspiring Full-Stack Developer from Taguig City, Philippines 🇵🇭</h3>
-
 ---
 
 ### 🚀 About Me
 - 🎓 BSIT student at **Technological University of the Philippines - Taguig**
-- 🔭 I'm currently working on my **capstone project — a Voice Emotion Recognition App using AI to analyze voice patterns**
+- 🔭 I'm currently working on my **capstone project — V.E.R.A. (Voice Emotion Recognition Application), an AI-driven mental health support platform**
 - 🌱 I'm currently learning **React Native and exploring more AI-related concepts**
 - 👯 I'm looking to collaborate on **web and mobile development projects, especially ones using JavaScript/React**
-- 💬 Ask me about **JavaScript, React, Laravel, Tailwind CSS, MySQL, MongoDB,Supabase**
+- 💬 Ask me about **JavaScript, React, Laravel, Tailwind CSS, MySQL, MongoDB**
 - 📫 How to reach me: **glyzamarieparcibal07@gmail.com**
 - 🌐 Check out my portfolio: **[glyzaarcibal.vercel.app](https://glyzaarcibal.vercel.app/)**
 
@@ -53,6 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=glyzaarcibal&show_icons=true&theme=dracula&count_private=true" height="170" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glyzaarcibal&layout=compact&theme=dracula" height="170" alt="top languages" />
 </div>
+
 
 ---
 
