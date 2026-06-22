@@ -71,8 +71,8 @@
 ### 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/glyzaarcibal/sia-thesis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glyzaarcibal&repo=sia-thesis&theme=dracula" />
+  <a href="https://github.com/glyzaarcibal/VERA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glyzaarcibal&repo=vera&theme=dracula" />
   </a>
   <a href="https://github.com/glyzaarcibal/lab-inventory-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=glyzaarcibal&repo=lab-inventory-system&theme=dracula" />
@@ -81,8 +81,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=glyzaarcibal&repo=packtrend-new&theme=dracula" />
   </a>
 </div>
-
-> 💡 Tip: You can also use GitHub's native **"Pin repositories"** feature on your profile page — it's separate from this README and shows up right above it.
 
 ---
 
