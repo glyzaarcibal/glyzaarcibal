@@ -1,12 +1,9 @@
-<div align="center">
+                          <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1ABC9C&height=200&section=header&text=Hi%20I'm%20Glyza%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=BSIT+Student+%7C+Aspiring+Full-Stack+Developer;Based+in+Taguig+City%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=glyzaarcibal&label=Profile%20views&color=0e75b6&style=flat" alt="glyzaarcibal" />
-</p>
+</p>                                         
 ---
 
 ### 🚀 About Me
