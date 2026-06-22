@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Glyza Marie Acibal</h1>
+<h1 align="center">Hi 👋, I'm Glyza Marie Arcibal</h1>
 <h3 align="center">BSIT Student | Aspiring Full-Stack Developer from Taguig City, Philippines 🇵🇭</h3>
 ---
 
