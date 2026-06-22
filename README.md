@@ -1,4 +1,4 @@
-                          <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1ABC9C&height=200&section=header&text=Hi%20I'm%20Glyza%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
 <p align="center">
