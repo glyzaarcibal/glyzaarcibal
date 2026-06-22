@@ -1,19 +1,32 @@
 <h1 align="center">Hi 👋, I'm Glyza</h1>
 <h3 align="center">A passionate Full-Stack Developer from the Philippines 🇵🇭</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=glyzaarcibal&label=Profile%20views&color=0e75b6&style=flat" alt="glyzaarcibal" />
-</p>
-
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **[project name here]**
-- 🌱 I'm currently learning **[framework/tech here]**
-- 👯 I'm looking to collaborate on **[type of project]**
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
-- 📫 How to reach me: **[your email]**
-- ⚡ Fun fact: **[something fun about you]**
+🔭 Currently working on:
+
+"a full-stack web app using React and Node.js"
+"improving my personal portfolio site"
+
+🌱 Currently learning:
+"system design and database optimization"
+
+👯 Looking to collaborate on:
+
+"open-source JavaScript/TypeScript projects"
+"web apps that solve real-world problems"
+"beginner-friendly projects where I can learn"
+"any project where I can grow as a developer"
+
+📫 How to reach me:
+
+Use lang actual email mo, e.g. glyzamarieparcibal07@gmail.com
+Or kung ayaw mong ipublic yung personal email, gumawa ng separate professional email or gamitin LinkedIn DM na lang: "Message me on LinkedIn"
+
+⚡ Fun fact:
+
+Personal touch ito, examples: "I debug better with coffee in hand ☕", "I once stayed up all night just to fix one CSS bug", "I'm a dev by day, dev by passion 😄"
 
 ---
 
