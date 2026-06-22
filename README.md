@@ -69,7 +69,6 @@
 ---
 
 ### 📌 Featured Projects
-
 <div align="center">
   <a href="https://github.com/glyzaarcibal/Vera">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=glyzaarcibal&repo=Vera&theme=dracula" />
@@ -82,9 +81,9 @@
   </a>
 </div>
 
----
 
-### 🤝 Connect with Me
+🤝 Connect with Me
+
 <div align="center">
   <a href="https://www.linkedin.com/in/glyza-marie-arcibal-5483523a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
