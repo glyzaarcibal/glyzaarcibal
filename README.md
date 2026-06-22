@@ -1,28 +1,17 @@
-<h1 align="center">Hi 👋, I'm Glyza</h1>
-<h3 align="center">A passionate Full-Stack Developer from the Philippines 🇵🇭</h3>
+<h1 align="center">Hi 👋, I'm Glyza Marie Acibal</h1>
+<h3 align="center">BSIT Student | Aspiring Full-Stack Developer from Taguig City, Philippines 🇵🇭</h3>
 
 ---
 
 ### 🚀 About Me
+- 🎓 BSIT student at **Technological University of the Philippines - Taguig**
+- 🔭 I'm currently working on my **capstone project — a Voice Emotion Recognition App using AI to analyze voice patterns**
+- 🌱 I'm currently learning **React Native and exploring more AI-related concepts**
+- 👯 I'm looking to collaborate on **web and mobile development projects, especially ones using JavaScript/React**
+- 💬 Ask me about **JavaScript, React, Laravel, Tailwind CSS, MySQL, MongoDB**
+- 📫 How to reach me: **glyzamarieparcibal07@gmail.com**
+- 🌐 Check out my portfolio: **[glyzaarcibal.vercel.app](https://glyzaarcibal.vercel.app/)**
 
-🔭 Currently working on:
-"a full-stack web app using React and Node.js"
-"improving my personal portfolio site"
-
-🌱 Currently learning:
-"system design and database optimization"
-
-👯 Looking to collaborate on:
-"open-source JavaScript/TypeScript projects"
-"web apps that solve real-world problems"
-"beginner-friendly projects where I can learn"
-"any project where I can grow as a developer"
-
-📫 How to reach me:
-glyzamarieparcibal07@gmail.com
-
-⚡ Fun fact:
- "I'm a dev by day, dev by passion 😄"
 
 ---
 
@@ -30,23 +19,31 @@ glyzamarieparcibal07@gmail.com
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
 </div>
 
 ---
@@ -73,13 +70,15 @@ glyzamarieparcibal07@gmail.com
 
 ### 📌 Featured Projects
 
-<!-- Replace these with your actual top repos -->
 <div align="center">
-  <a href="https://github.com/glyzaarcibal/REPO-NAME-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glyzaarcibal&repo=REPO-NAME-1&theme=dracula" />
+  <a href="https://github.com/glyzaarcibal/sia-thesis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glyzaarcibal&repo=sia-thesis&theme=dracula" />
   </a>
-  <a href="https://github.com/glyzaarcibal/REPO-NAME-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glyzaarcibal&repo=REPO-NAME-2&theme=dracula" />
+  <a href="https://github.com/glyzaarcibal/lab-inventory-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glyzaarcibal&repo=lab-inventory-system&theme=dracula" />
+  </a>
+  <a href="https://github.com/glyzaarcibal/packtrend-new">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glyzaarcibal&repo=packtrend-new&theme=dracula" />
   </a>
 </div>
 
@@ -89,15 +88,15 @@ glyzamarieparcibal07@gmail.com
 
 ### 🤝 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/glyza-marie-arcibal-5483523a5/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="linkedin" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:glyzamarieparcibal07@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="35" alt="email" />
   </a>
   &nbsp;
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
+  <a href="https://glyzaarcibal.vercel.app/" target="_blank">
     🌐 Portfolio
   </a>
 </div>
