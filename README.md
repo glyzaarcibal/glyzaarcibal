@@ -59,13 +59,6 @@ glyzamarieparcibal07@gmail.com
 
 ---
 
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=glyzaarcibal&theme=dracula&row=1&column=7&margin-w=10" alt="trophies" />
-</div>
-
----
-
 ### 🔥 Streak & Activity
 <picture>
   <img alt="snake" src="https://raw.githubusercontent.com/glyzaarcibal/glyzaarcibal/output/snake.svg">
