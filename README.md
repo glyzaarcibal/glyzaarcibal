@@ -4,8 +4,8 @@
 ---
 
 ### 🚀 About Me
-🔭 Currently working on:
 
+🔭 Currently working on:
 "a full-stack web app using React and Node.js"
 "improving my personal portfolio site"
 
@@ -13,20 +13,16 @@
 "system design and database optimization"
 
 👯 Looking to collaborate on:
-
 "open-source JavaScript/TypeScript projects"
 "web apps that solve real-world problems"
 "beginner-friendly projects where I can learn"
 "any project where I can grow as a developer"
 
 📫 How to reach me:
-
-Use lang actual email mo, e.g. glyzamarieparcibal07@gmail.com
-Or kung ayaw mong ipublic yung personal email, gumawa ng separate professional email or gamitin LinkedIn DM na lang: "Message me on LinkedIn"
+glyzamarieparcibal07@gmail.com
 
 ⚡ Fun fact:
-
-Personal touch ito, examples: "I debug better with coffee in hand ☕", "I once stayed up all night just to fix one CSS bug", "I'm a dev by day, dev by passion 😄"
+ "I'm a dev by day, dev by passion 😄"
 
 ---
 
