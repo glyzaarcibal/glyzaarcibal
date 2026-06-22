@@ -71,8 +71,8 @@
 ### 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/glyzaarcibal/VERA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glyzaarcibal&repo=vera&theme=dracula" />
+  <a href="https://github.com/glyzaarcibal/Vera">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glyzaarcibal&repo=Vera&theme=dracula" />
   </a>
   <a href="https://github.com/glyzaarcibal/lab-inventory-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=glyzaarcibal&repo=lab-inventory-system&theme=dracula" />
