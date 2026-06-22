@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on my **capstone project — a Voice Emotion Recognition App using AI to analyze voice patterns**
 - 🌱 I'm currently learning **React Native and exploring more AI-related concepts**
 - 👯 I'm looking to collaborate on **web and mobile development projects, especially ones using JavaScript/React**
-- 💬 Ask me about **JavaScript, React, Laravel, Tailwind CSS, MySQL, MongoDB**
+- 💬 Ask me about **JavaScript, React, Laravel, Tailwind CSS, MySQL, MongoDB,Supabase**
 - 📫 How to reach me: **glyzamarieparcibal07@gmail.com**
 - 🌐 Check out my portfolio: **[glyzaarcibal.vercel.app](https://glyzaarcibal.vercel.app/)**
 
